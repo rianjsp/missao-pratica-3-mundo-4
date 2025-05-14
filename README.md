@@ -1,4 +1,5 @@
 # Doma Assistance App
+`Missão Prática | Nível 3 | Mundo 4 `
 
 Este é um aplicativo Android desenvolvido para dispositivos Wear OS, com foco em acessibilidade para funcionários com necessidades especiais, especialmente pessoas com deficiência visual. O app fornece assistência por áudio, leitura de mensagens, comandos de voz e envio de alertas importantes. Foi desenvolvido com foco em usabilidade, acessibilidade e integração com funcionalidades de voz do sistema Android.
 
