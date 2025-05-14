@@ -4,7 +4,7 @@
     <selectionStates>
       <SelectionState runConfigName="MainActivity">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2025-05-13T23:47:16.933247500Z">
+        <DropdownSelection timestamp="2025-05-14T01:16:04.852969400Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\rianf\.android\avd\Wear_OS_Small_Round.avd" />
